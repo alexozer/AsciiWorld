@@ -7,4 +7,4 @@ It was completed as en exercise to get me refreshed with the Java langauge, and 
 
 ![pic](screenshot.png)
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/NPXRDIHG-DE?rel=0" frameborder="0" allowfullscreen></iframe>
+[Video](https://www.youtube.com/watch?v=NPXRDIHG-DE)
